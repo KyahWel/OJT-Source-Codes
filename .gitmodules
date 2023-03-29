@@ -1,3 +1,6 @@
 [submodule "Personal-Portfolio-V2"]
 	path = Personal-Portfolio-V2
 	url = https://github.com/KyahWel/Personal-Portfolio-V2
+[submodule "Personal-Portfolio-V3"]
+	path = Personal-Portfolio-V3
+	url = https://github.com/KyahWel/Personal-Portfolio-V3
